@@ -7,3 +7,7 @@
 2. java: Create Java Project...
 3. No bulid tools 선택
 3. project name 입력
+
+## 자바 학습 자료
+https://github.com/postforty/java-workspace
+

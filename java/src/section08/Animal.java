@@ -14,7 +14,7 @@ public class Animal {
     //  String name = "Navi"; // 이 방법으로 초기화 가능
     //  name = "Navi"; 이 방법으로 초기화 불가
 
-    public void setName(String n) {
-        name = n; // method를 사용하여 초기화 가능
+    public void setName(String name) {
+        this.name = name; // method를 사용하여 초기화 가능
     }
 }
